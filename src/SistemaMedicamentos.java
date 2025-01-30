@@ -53,7 +53,7 @@ public class SistemaMedicamentos {
             @Override
             protected void paintComponent(Graphics g) {
                 super.paintComponent(g);
-                ImageIcon icon = new ImageIcon("C:\\Users\\Usuario\\Pictures\\pexels-chris-f-38966-1582458.jpg"); // Coloque o caminho da sua imagem aqui
+                ImageIcon icon = new ImageIcon("C:\\Users\\Usuario\\Desktop\\cia dos animais\\untitled\\imagem do krl, funcionaaa.jpg"); // Coloque o caminho da sua imagem aqui
                 Image img = icon.getImage();
                 g.drawImage(img, 0, 0, getWidth(), getHeight(), this);
             }
@@ -119,7 +119,7 @@ public class SistemaMedicamentos {
             @Override
             protected void paintComponent(Graphics g) {
                 super.paintComponent(g);
-                ImageIcon icon = new ImageIcon("C:\\Users\\Usuario\\Pictures\\pexels-chris-f-38966-1582458.jpg"); // Coloque o caminho da sua imagem aqui
+                ImageIcon icon = new ImageIcon("\"C:\\Users\\Usuario\\Desktop\\cia dos animais\\untitled\\imagem do krl, funcionaaa.jpg"); // Coloque o caminho da sua imagem aqui
                 Image img = icon.getImage();
                 g.drawImage(img, 0, 0, getWidth(), getHeight(), this);
             }
@@ -246,7 +246,7 @@ public class SistemaMedicamentos {
             @Override
             protected void paintComponent(Graphics g) {
                 super.paintComponent(g);
-                ImageIcon icon = new ImageIcon("C:\\Users\\Usuario\\Pictures\\pexels-chris-f-38966-1582458.jpg"); // Coloque o caminho da sua imagem aqui
+                ImageIcon icon = new ImageIcon("C:\\Users\\Usuario\\Desktop\\cia dos animais\\untitled\\imagem do krl, funcionaaa.jpg"); // Coloque o caminho da sua imagem aqui
                 Image img = icon.getImage();
                 g.drawImage(img, 0, 0, getWidth(), getHeight(), this);
             }
